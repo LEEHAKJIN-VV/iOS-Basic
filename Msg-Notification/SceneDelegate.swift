@@ -34,7 +34,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UNUserNotificationCente
         // Called when the scene will move from an active state to an inactive state.
         // This may occur due to temporary interruptions (ex. an incoming phone call).
     }
-
+    
+    // iOS13부터 appdelegate -> sceneDelegate
     func sceneWillEnterForeground(_ scene: UIScene) {
         // Called as the scene transitions from the background to the foreground.
         // Use this method to undo the changes made on entering the background.
@@ -64,8 +65,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UNUserNotificationCente
                     print("사용자가 동의하지 않음")
                 }
             }
-        } else {
-            // ios version down 13.0
+        } else { // ios version down 13.0
         }
     }
 
