@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		281E701128785E12005BEAB7 /* darknight 복사본.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 281E700528785E11005BEAB7 /* darknight 복사본.jpg */; };
+		281E701228785E12005BEAB7 /* shangchi.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E700628785E11005BEAB7 /* shangchi.png */; };
+		281E701328785E12005BEAB7 /* kill.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E700728785E11005BEAB7 /* kill.png */; };
+		281E701428785E12005BEAB7 /* doctor.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E700828785E11005BEAB7 /* doctor.png */; };
+		281E701528785E12005BEAB7 /* hiden.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E700928785E11005BEAB7 /* hiden.png */; };
+		281E701628785E12005BEAB7 /* fight.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E700A28785E11005BEAB7 /* fight.png */; };
+		281E701728785E12005BEAB7 /* oldboy.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E700B28785E11005BEAB7 /* oldboy.png */; };
+		281E701828785E12005BEAB7 /* rain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 281E700C28785E12005BEAB7 /* rain.jpg */; };
+		281E701928785E12005BEAB7 /* secret.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 281E700D28785E12005BEAB7 /* secret.jpg */; };
+		281E701A28785E12005BEAB7 /* thor.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E700E28785E12005BEAB7 /* thor.png */; };
+		281E701B28785E12005BEAB7 /* baddeal.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E700F28785E12005BEAB7 /* baddeal.png */; };
+		281E701C28785E12005BEAB7 /* newworld.png in Resources */ = {isa = PBXBuildFile; fileRef = 281E701028785E12005BEAB7 /* newworld.png */; };
 		28494BC1287590640072E042 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28494BC0287590640072E042 /* AppDelegate.swift */; };
 		28494BC3287590640072E042 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28494BC2287590640072E042 /* SceneDelegate.swift */; };
 		28494BC5287590640072E042 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28494BC4287590640072E042 /* ViewController.swift */; };
@@ -16,12 +28,21 @@
 		28494BD5287592860072E042 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28494BD4287592860072E042 /* ListViewController.swift */; };
 		28494BD7287595DF0072E042 /* MovieVo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28494BD6287595DF0072E042 /* MovieVo.swift */; };
 		28B67F412876D89E0090BBE0 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B67F402876D89E0090BBE0 /* MovieCell.swift */; };
-		28B67F472876E7E90090BBE0 /* darknight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28B67F462876E7E90090BBE0 /* darknight.jpg */; };
-		28B67F492876E7F10090BBE0 /* rain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28B67F482876E7F10090BBE0 /* rain.jpg */; };
-		28B67F4B2876E7F80090BBE0 /* secret.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28B67F4A2876E7F80090BBE0 /* secret.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		281E700528785E11005BEAB7 /* darknight 복사본.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "darknight 복사본.jpg"; sourceTree = "<group>"; };
+		281E700628785E11005BEAB7 /* shangchi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shangchi.png; sourceTree = "<group>"; };
+		281E700728785E11005BEAB7 /* kill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kill.png; sourceTree = "<group>"; };
+		281E700828785E11005BEAB7 /* doctor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doctor.png; sourceTree = "<group>"; };
+		281E700928785E11005BEAB7 /* hiden.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hiden.png; sourceTree = "<group>"; };
+		281E700A28785E11005BEAB7 /* fight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fight.png; sourceTree = "<group>"; };
+		281E700B28785E11005BEAB7 /* oldboy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oldboy.png; sourceTree = "<group>"; };
+		281E700C28785E12005BEAB7 /* rain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rain.jpg; sourceTree = "<group>"; };
+		281E700D28785E12005BEAB7 /* secret.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secret.jpg; sourceTree = "<group>"; };
+		281E700E28785E12005BEAB7 /* thor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thor.png; sourceTree = "<group>"; };
+		281E700F28785E12005BEAB7 /* baddeal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baddeal.png; sourceTree = "<group>"; };
+		281E701028785E12005BEAB7 /* newworld.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = newworld.png; sourceTree = "<group>"; };
 		28494BBD287590640072E042 /* MyMovieChart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMovieChart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28494BC0287590640072E042 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28494BC2287590640072E042 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -33,9 +54,6 @@
 		28494BD4287592860072E042 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		28494BD6287595DF0072E042 /* MovieVo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieVo.swift; sourceTree = "<group>"; };
 		28B67F402876D89E0090BBE0 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
-		28B67F462876E7E90090BBE0 /* darknight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = darknight.jpg; sourceTree = "<group>"; };
-		28B67F482876E7F10090BBE0 /* rain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rain.jpg; sourceTree = "<group>"; };
-		28B67F4A2876E7F80090BBE0 /* secret.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secret.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,9 +104,18 @@
 		28B67F432876E0AF0090BBE0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				28B67F4A2876E7F80090BBE0 /* secret.jpg */,
-				28B67F482876E7F10090BBE0 /* rain.jpg */,
-				28B67F462876E7E90090BBE0 /* darknight.jpg */,
+				281E700F28785E12005BEAB7 /* baddeal.png */,
+				281E700528785E11005BEAB7 /* darknight 복사본.jpg */,
+				281E700828785E11005BEAB7 /* doctor.png */,
+				281E700A28785E11005BEAB7 /* fight.png */,
+				281E700928785E11005BEAB7 /* hiden.png */,
+				281E700728785E11005BEAB7 /* kill.png */,
+				281E701028785E12005BEAB7 /* newworld.png */,
+				281E700B28785E11005BEAB7 /* oldboy.png */,
+				281E700C28785E12005BEAB7 /* rain.jpg */,
+				281E700D28785E12005BEAB7 /* secret.jpg */,
+				281E700628785E11005BEAB7 /* shangchi.png */,
+				281E700E28785E12005BEAB7 /* thor.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -152,11 +179,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				28494BCD287590660072E042 /* LaunchScreen.storyboard in Resources */,
-				28B67F492876E7F10090BBE0 /* rain.jpg in Resources */,
+				281E701B28785E12005BEAB7 /* baddeal.png in Resources */,
 				28494BCA287590660072E042 /* Assets.xcassets in Resources */,
+				281E701128785E12005BEAB7 /* darknight 복사본.jpg in Resources */,
+				281E701628785E12005BEAB7 /* fight.png in Resources */,
+				281E701428785E12005BEAB7 /* doctor.png in Resources */,
+				281E701828785E12005BEAB7 /* rain.jpg in Resources */,
+				281E701528785E12005BEAB7 /* hiden.png in Resources */,
+				281E701C28785E12005BEAB7 /* newworld.png in Resources */,
+				281E701928785E12005BEAB7 /* secret.jpg in Resources */,
+				281E701A28785E12005BEAB7 /* thor.png in Resources */,
+				281E701728785E12005BEAB7 /* oldboy.png in Resources */,
+				281E701228785E12005BEAB7 /* shangchi.png in Resources */,
 				28494BC8287590640072E042 /* Main.storyboard in Resources */,
-				28B67F4B2876E7F80090BBE0 /* secret.jpg in Resources */,
-				28B67F472876E7E90090BBE0 /* darknight.jpg in Resources */,
+				281E701328785E12005BEAB7 /* kill.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
