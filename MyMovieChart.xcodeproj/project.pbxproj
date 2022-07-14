@@ -28,6 +28,8 @@
 		28494BD5287592860072E042 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28494BD4287592860072E042 /* ListViewController.swift */; };
 		28494BD7287595DF0072E042 /* MovieVo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28494BD6287595DF0072E042 /* MovieVo.swift */; };
 		28B67F412876D89E0090BBE0 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B67F402876D89E0090BBE0 /* MovieCell.swift */; };
+		28CDE66C28800C4D0096F7DC /* MovieInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CDE66B28800C4D0096F7DC /* MovieInfo.swift */; };
+		28CDE66E288054E00096F7DC /* ListViewControllerSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CDE66D288054E00096F7DC /* ListViewControllerSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +56,8 @@
 		28494BD4287592860072E042 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		28494BD6287595DF0072E042 /* MovieVo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieVo.swift; sourceTree = "<group>"; };
 		28B67F402876D89E0090BBE0 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		28CDE66B28800C4D0096F7DC /* MovieInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieInfo.swift; sourceTree = "<group>"; };
+		28CDE66D288054E00096F7DC /* ListViewControllerSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewControllerSection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,10 +92,12 @@
 			children = (
 				28B67F432876E0AF0090BBE0 /* Resources */,
 				28494BC0287590640072E042 /* AppDelegate.swift */,
+				28CDE66D288054E00096F7DC /* ListViewControllerSection.swift */,
 				28494BD4287592860072E042 /* ListViewController.swift */,
 				28494BC2287590640072E042 /* SceneDelegate.swift */,
 				28494BC4287590640072E042 /* ViewController.swift */,
 				28494BD6287595DF0072E042 /* MovieVo.swift */,
+				28CDE66B28800C4D0096F7DC /* MovieInfo.swift */,
 				28494BC6287590640072E042 /* Main.storyboard */,
 				28B67F402876D89E0090BBE0 /* MovieCell.swift */,
 				28494BC9287590660072E042 /* Assets.xcassets */,
@@ -203,7 +209,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28CDE66C28800C4D0096F7DC /* MovieInfo.swift in Sources */,
 				28494BC5287590640072E042 /* ViewController.swift in Sources */,
+				28CDE66E288054E00096F7DC /* ListViewControllerSection.swift in Sources */,
 				28494BC1287590640072E042 /* AppDelegate.swift in Sources */,
 				28B67F412876D89E0090BBE0 /* MovieCell.swift in Sources */,
 				28494BD5287592860072E042 /* ListViewController.swift in Sources */,
