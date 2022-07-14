@@ -4,7 +4,7 @@
 //
 //  Created by 이학진 on 2022/07/14.
 //
-// https://velog.io/@lhj26/iOS-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B7%B0-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC2-UIListContentConfiguration 소스코드
+// https://velog.io/@lhj26/iOS-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B7%B0-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC2-Custom-UITableViewCell 소스코드
 
 import UIKit
 
